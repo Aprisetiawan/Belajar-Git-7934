@@ -26,3 +26,6 @@ $siswa->updateSiswa($_POST['in_nis'], $data);
 echo "Data siswa berhasil di update <br />";
 echo "<a href ='dsiswa.php?id=".$_POST['in_nis']."'>DETAIL SISWA</a>"
 ?>
+
+
+//File ini telah diubah oleh saya sendiri
