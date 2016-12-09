@@ -7,7 +7,7 @@
 	$id = $_GET['id'];
 	$age = new Age();
 	$data = $siswa->readSiswa($id);
-	
+	//adsasfasfhaptiapygehap
 	
 ?>
 
